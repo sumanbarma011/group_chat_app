@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "419690889358",
+    "project_id": "groupchatapp-f473f",
+    "storage_bucket": "groupchatapp-f473f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419690889358:android:4a2e8dabaf538107fe49df",
+        "android_client_info": {
+          "package_name": "com.example.group_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419690889358-cakfbhoruoq25ne0b9folnrbs905up1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnAhHK9tXTCOmu8KylAKiA3ZqRtyomoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419690889358-cakfbhoruoq25ne0b9folnrbs905up1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419690889358-od1it2icsktng4qec8o0hgltrkdqj1kf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groupChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
